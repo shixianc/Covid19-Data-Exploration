@@ -1,7 +1,7 @@
 # Covid19-Data-Exploration
 ### 1. Implemented data cleaning, processing and exploration on Covid-19 related large data sets, using Spark and sql/nosql.
 ###### - The goal for this project is to find the insights and underlying relations between US Mobility data(from Google reports) and Covid-19 cases reports.
-###### - By using data visualzation and other interactive methods to provide researcher powerful tools to explore and understand the data.
+###### - By using data visualization and other interactive methods to provide researcher powerful tools to explore and understand the data.
 
 <img src="https://github.com/shixianc/Covid19-Data-Exploration/blob/master/SreenShots/kaggle-date.png" width="600">
 
